@@ -155,6 +155,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [Unique](https://unique.vc/) - Create or join a web3 venture club.
 - [Weezi](https://weezi.io/) - simple CRM for DAO Asset Management in DeFi, NFT and GameFi.
 - [xDAO](https://www.xdao.app/) - XDAO is a fully customizable tool that can be used for treasury management, multisig wallet and the platform for investment.
+- [DAO Generator (TON)](https://dao.blc.cab) - Create DAOs on TON from Telegram Mini App — voting and shared treasury. Bot: https://t.me/Dao_gen_bot.
 
 ## Data Access
 
